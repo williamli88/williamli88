@@ -11,7 +11,7 @@ I'm a computer science student at **UW–Madison**. I build apps people actually
   </picture>
 </a>
 
-**[Chorus](https://github.com/williamli88/chorus)** is a chore app for houses that keep score. It deals out chores on a rotation, asks for a photo as proof, keeps a credit ledger, lets roommates trade chores, and spins a month-end wheel of dares for whoever finishes last. It's in daily use in my own house.
+**[Chorus](https://github.com/williamli88/chorus)** is a chore app for houses that keep score. It deals out chores on a rotation, asks for a photo as proof, keeps a credit ledger, lets roommates trade chores, and spins a month-end wheel of dares for whoever finishes last. It's in daily use in my own house. Its fall update added live presence, proofs that drop onto your board as they're filed, real weather, and a month-end recap you can share.
 
 <p>
   <a href="https://github.com/williamli88/chorus"><img alt="See the showcase" src="https://img.shields.io/badge/showcase-williamli88%2Fchorus-d4521f?style=flat-square"></a>
@@ -23,6 +23,11 @@ I'm a computer science student at **UW–Madison**. I build apps people actually
     <td width="33%"><img src="https://raw.githubusercontent.com/williamli88/chorus/main/assets/board.gif" alt="The Board, finishing chores" width="100%"></td>
     <td width="33%"><img src="https://raw.githubusercontent.com/williamli88/chorus/main/assets/trade.gif" alt="A trade between roommates" width="100%"></td>
     <td width="33%"><img src="https://raw.githubusercontent.com/williamli88/chorus/main/assets/wheel.gif" alt="The month-end dare wheel" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/williamli88/chorus/main/assets/live.gif" alt="The Board live: presence dots, a proof dropping in, rain on the nav bar" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/williamli88/chorus/main/assets/morph.gif" alt="A proof photo growing into a full-screen Polaroid" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/williamli88/chorus/main/assets/recap.gif" alt="The month-end recap in story cards" width="100%"></td>
   </tr>
 </table>
 
